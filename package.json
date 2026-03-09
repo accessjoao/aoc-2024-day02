@@ -1,0 +1,26 @@
+{
+  "name": "aoc-2024-day02",
+  "version": "1.0.0",
+  "description": "Advent of Code 2024 — Day 2 solution",
+  "main": "day02.ts",
+  "scripts": {
+    "start": "npx ts-node day02.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/accessjoao/aoc-2024-day02.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/accessjoao/aoc-2024-day02/issues"
+  },
+  "homepage": "https://github.com/accessjoao/aoc-2024-day02#readme",
+  "devDependencies": {
+    "@types/node": "^25.3.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.0"
+  }
+}
